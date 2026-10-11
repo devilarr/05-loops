@@ -1,7 +1,7 @@
 package main
 
 import "fmt"
-
+fork test
 func main(){
 	age:= 20
 
