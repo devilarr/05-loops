@@ -1,7 +1,7 @@
 package main
 
 import "fmt"
-
+direct test
 func main(){
 	age:= 20
 
